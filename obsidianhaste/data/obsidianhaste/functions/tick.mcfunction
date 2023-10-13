@@ -1,1 +1,1 @@
-execute as @a at @s positioned ^ ^ ^2.25 if block ~ ~ ~ minecraft:obsidian run effect give @s minecraft:haste 1 75 true
+execute as @a[nbt={Dimension:"minecraft:the_end"}] at @s positioned ^ ^ ^2.25 if block ~ ~ ~ minecraft:obsidian run effect give @s minecraft:haste 1 75 true
