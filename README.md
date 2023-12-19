@@ -1,3 +1,5 @@
+**NOTE:** This datapack is now *deprecated*, meaning that it will no longer receive updates. This pack is also unstable and may not work as intended in some scenarios, I do not recommend that you use it.
+
 # ObbyHaste
 
 ObbyHaste is a simple datapack that I have made for a Technical Server that I am currently hosting.
